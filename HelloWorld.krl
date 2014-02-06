@@ -18,7 +18,7 @@ ruleset HelloWorldApp {
     select when web cloudAppSelected
     pre {
       my_html = <<
-        <h5>Hello, world!</h5>
+        <h5>Hello, Jimmy's world!</h5>
       >>;
     }
     {
